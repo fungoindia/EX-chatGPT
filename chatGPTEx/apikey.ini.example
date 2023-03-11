@@ -1,12 +1,12 @@
 [Google]
-GOOGLE_API_KEY = x
-SEARCH_ENGINE_ID = x
+GOOGLE_API_KEY = AIzaSyCmu_-0tmXtL_VzSetrnJLnEEvKzL5y79s
+SEARCH_ENGINE_ID = 210511f3169fc41c2
 [OpenAI]
-key0 = sk-xxxx
-key1 = sk-xxxx
-key2 = sk-xxxx
+key0 = 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
+key1 = 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
+key2 = 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
 [WolframAlpha]
-WOLFRAMALPHA_APP_ID = xxxx
+WOLFRAMALPHA_APP_ID = J37XTE-42QHK8AV7Q
 [Proxy]
 api_proxy = https://api.openai.com/v1/chat/completions
 [Azure]
